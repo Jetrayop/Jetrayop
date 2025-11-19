@@ -15,8 +15,10 @@
 ## 🚀 Projects
 | Project | Description | Play |
 |----------|--------------|------|
-| **Arcade Reflex** | 3-level arcade game focused on timing and feedback | [Play on Itch.io](https://jetrayop.itch.io/protog) |
-| **Maze Runner** | Scratch maze game exploring flow and difficulty | [Play on Scratch](https://scratch.mit.edu/projects/1238718900) |
+| **ProtoG** | 3-level arcade game focused on timing and feedback | [Play on Itch.io](https://jetrayop.itch.io/protog) |
+| **Doggy Maze** | Scratch maze game exploring flow and difficulty | [Play on Scratch](https://scratch.mit.edu/projects/1238718900) |
+| **BigChill** | RPG Game built on game maker engine | [Play on itch.io](https://jetrayop.itch.io/bigchill) |
+
 
 ---
 
