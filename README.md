@@ -7,8 +7,9 @@
 
 ## 🕹️ What I Do
 - Design and build small indie games exploring **player flow**, **challenge**, and **reward systems**  
-- Experiment with **GameMaker**, **Scratch**, **RPG Maker**  and **Unity**
-- Learn and document **game design processes**, UI/UX, and storytelling in games  
+- Experiment with **Unity** , **GameMaker** 
+- Learn and document **game design processes**, UI/UX, and storytelling in games
+- I Also make Game Design and Game Psychology Content on Instagram : https://www.instagram.com/jetrayop_/
 
 ---
 
@@ -32,13 +33,14 @@
 ---
 
 ## 🧩 Tools & Tech
-`GameMaker` • `RPG Maker` • `Scratch` • `Python (Basic)` • `GML`  
+`GameMaker` • `Scratch` • `Python (Basic)` • `GML`  • `Unity`  • `C#`  
 
 ---
 
 ## 📫 Reach Me
 📧 **Email:** aryanchaudhary1232@gmail.com
 🎮 **Itch.io:** [https://jetrayop.itch.io/)  
+https://www.instagram.com/jetrayop_/
 
 ---
 
