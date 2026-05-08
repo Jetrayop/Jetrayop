@@ -15,7 +15,7 @@
 ## 🚀 Projects
 | Project | Description | Play |
 |----------|--------------|------|
-| **ClickyRay** | Arcade Game Bulit on Unity Engine | [Play on itch.io]https://jetrayop.itch.io/clickyray |
+| **ClickyRay** | Arcade Game Bulit on Unity Engine | [Play on itch.io](https://jetrayop.itch.io/clickyray) |
 | **FIEA FLAPPYRAY PROTOTYPE** |A minimalist arcade prototype focused on physics, timing, and responsive controls.| [Play on Itch.io](https://jetrayop.itch.io/fiea-flappray-prototype) |
 | **ProtoG** | 3-level arcade game focused on timing and feedback | [Play on Itch.io](https://jetrayop.itch.io/protog) |
 | **Doggy Maze** | Scratch maze game exploring flow and difficulty | [Play on Scratch](https://scratch.mit.edu/projects/1238718900) |
