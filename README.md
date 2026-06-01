@@ -1,62 +1,91 @@
-# 👋 Hi, I'm Aryan Chaudhary!
+# 🎮 Hi, I'm Aryan Chaudhary
 
-🎮 **Aspiring Game Designer** | 🎓 BCA (Data Analytics) — Amity University Online  
-🌍 Based in India | 💡 Passionate about games, design, and creating interactive experiences  
+**Incoming Master's Student in Game Design at the University of Utah (Entertainment Arts & Engineering)**
+**Former Esports Athlete | Game Designer | Player Psychology & Systems Design Enthusiast**
 
----
+I am passionate about understanding how games shape player behavior, motivation, and engagement. My interests lie at the intersection of **game design, player psychology, game research, and interactive systems**.
 
-## 🕹️ What I Do
-- Design and build small indie games exploring **player flow**, **challenge**, and **reward systems**  
-- Experiment with **Unity** , **GameMaker** 
-- Learn and document **game design processes**, UI/UX, and storytelling in games
-- I Also make Game Design and Game Psychology Content on Instagram : https://www.instagram.com/jetrayop_/
+Through competitive gaming, content creation, and hands-on development, I enjoy exploring how mechanics, progression systems, feedback loops, and player experiences come together to create meaningful gameplay.
 
 ---
 
-## 🚀 Projects
-| Project | Description | Play |
-|----------|--------------|------|
-| **ClickyRay** | Arcade Game Bulit on Unity Engine | [Play on itch.io](https://jetrayop.itch.io/clickyray) |
-| **FIEA FLAPPYRAY PROTOTYPE** |A minimalist arcade prototype focused on physics, timing, and responsive controls.| [Play on Itch.io](https://jetrayop.itch.io/fiea-flappray-prototype) |
-| **ProtoG** | 3-level arcade game focused on timing and feedback | [Play on Itch.io](https://jetrayop.itch.io/protog) |
-| **Doggy Maze** | Scratch maze game exploring flow and difficulty | [Play on Scratch](https://scratch.mit.edu/projects/1238718900) |
-| **BigChill** | RPG Game built on game maker engine | [Play on itch.io](https://jetrayop.itch.io/bigchill) |
+## 🧠 Areas of Interest
 
-
----
-
-## 🧠 Currently Learning
-- Game design theory & prototyping  
-- Visual scripting & basic coding logic  
-- Unity
+* Game Design
+* Systems Design
+* Player Psychology
+* Game Research
+* Player Experience (PX)
+* Playtesting & Game Testing
+* Competitive Game Design
+* Interactive Systems
 
 ---
 
-## 🧩 Tools & Tech
-`GameMaker` • `Scratch` • `Python (Basic)` • `GML`  • `Unity`  • `C#`  
+## 🚀 Featured Projects
+
+### ClickyRay
+
+Arcade game developed in Unity focused on player feedback, timing, and engagement.
+
+🎮 Play: https://jetrayop.itch.io/clickyray
+
+### FIEA FlappyRay Prototype
+
+A minimalist arcade prototype exploring responsive controls, player flow, and physics-based gameplay.
+
+🎮 Play: https://jetrayop.itch.io/fiea-flappray-prototype
+
+### ProtoG
+
+A three-level arcade experience focused on challenge progression, feedback, and gameplay iteration.
+
+🎮 Play: https://jetrayop.itch.io/protog
+
+### Doggy Maze
+
+A maze game exploring player guidance, difficulty balancing, and flow.
+
+🎮 Play: https://scratch.mit.edu/projects/1238718900
+
+### BigChill
+
+An RPG prototype developed in GameMaker focused on exploration and progression systems.
+
+🎮 Play: https://jetrayop.itch.io/bigchill
 
 ---
 
-## 📫 Reach Me
-📧 **Email:** aryanchaudhary1232@gmail.com
-🎮 **Itch.io:** [https://jetrayop.itch.io/)  
+## 🎥 Content Creation
+
+I create content focused on:
+
+* Game Design
+* Player Psychology
+* Competitive Gaming
+* Interactive Media
+
+Instagram:
 https://www.instagram.com/jetrayop_/
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my games or connect for collaboration.*  
+## 🛠 Tools
 
-<!--
-**Jetrayop/Jetrayop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity • GameMaker • C# • GML • Scratch • Python (Basic)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+
+📧 [aryanchaudhary1232@gmail.com](mailto:aryanchaudhary1232@gmail.com)
+
+🎮 Itch.io:
+https://jetrayop.itch.io
+
+📸 Instagram:
+https://www.instagram.com/jetrayop_/
+
+---
+
+*"Great games aren't just played. They're understood."*
