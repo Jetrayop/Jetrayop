@@ -1,6 +1,6 @@
 # 🎮 Hi, I'm Aryan Chaudhary
 
-**Incoming Master's Student in Game Design at the University of Utah (Entertainment Arts & Engineering)**
+**Master's Student in Game Design at the University of Utah (Entertainment Arts & Engineering)**
 **Former Esports Athlete | Game Designer | Player Psychology & Systems Design Enthusiast**
 
 I am passionate about understanding how games shape player behavior, motivation, and engagement. My interests lie at the intersection of **game design, player psychology, game research, and interactive systems**.
