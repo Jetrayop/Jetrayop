@@ -23,6 +23,11 @@ Through competitive gaming, content creation, and hands-on development, I enjoy 
 ---
 
 ## 🚀 Featured Projects
+### SpaceRay
+
+SpaceRay is a fast-paced endless survival game where you play as an astronaut drifting through the depths of space. Your mission is simple: avoid colliding with incoming asteroids and survive for as long as possible.
+
+🎮 Play: https://jetrayop.itch.io/spaceray
 
 ### ClickyRay
 
