@@ -13,6 +13,7 @@ Through competitive gaming, content creation, and hands-on development, I enjoy 
 
 * Game Design
 * Systems Design
+* GamePlay Balance
 * Player Psychology
 * Game Research
 * Player Experience (PX)
@@ -23,6 +24,13 @@ Through competitive gaming, content creation, and hands-on development, I enjoy 
 ---
 
 ## 🚀 Featured Projects
+
+### RollARay
+
+A fast-paced arcade chase game where players collect coins while escaping a relentless pursuing bomb.Built to explore gameplay balancing, iterative design, and UI implementation.
+
+🎮 Play: https://jetrayop.itch.io/rollaray
+
 ### SpaceRay
 
 SpaceRay is a fast-paced endless survival game where you play as an astronaut drifting through the depths of space. Your mission is simple: avoid colliding with incoming asteroids and survive for as long as possible.
@@ -77,7 +85,7 @@ https://www.instagram.com/jetrayop_/
 
 ## 🛠 Tools
 
-Unity • GameMaker • C# • GML • Scratch • Python (Basic)
+Unity • GameMaker • C# • GML • Scratch • Python (Basic)• Unreal Engine
 
 ---
 
