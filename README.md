@@ -31,17 +31,23 @@ A fast-paced arcade chase game where players collect coins while escaping a rele
 
 🎮 Play: https://jetrayop.itch.io/rollaray
 
+GamePlay Video : https://youtu.be/4EW1d_7bkv8
+
 ### SpaceRay
 
 SpaceRay is a fast-paced endless survival game where you play as an astronaut drifting through the depths of space. Your mission is simple: avoid colliding with incoming asteroids and survive for as long as possible.
 
 🎮 Play: https://jetrayop.itch.io/spaceray
 
+GamePlay Video : https://youtu.be/qug_8VgcGMI
+
 ### ClickyRay
 
 Arcade game developed in Unity focused on player feedback, timing, and engagement.
 
 🎮 Play: https://jetrayop.itch.io/clickyray
+
+GamePlay Video - https://www.youtube.com/watch?v=HYSkAupd3vA
 
 ### FIEA FlappyRay Prototype
 
